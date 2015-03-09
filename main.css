@@ -1,0 +1,40 @@
+/* Partie CSS du CV d’Antoine MIDAN CSS */
+
+html {
+    font-family: "Comic Sans MS";
+    background-color: rgb(255,207,137);
+    margin: 2 auto;
+   }
+
+body {
+    margin: 5 auto;
+    font-size: 16px;
+    line-height: 1em;
+}
+    
+
+h1 {
+    color: rgb(0,0,255);
+    font-size:30px;
+    font-weight: bold;
+    text-align: center;
+}
+    
+
+h2, h3, h4, h5, h6 {
+    color: rgb(0,0,255);
+    font-size:21px;
+    text-decoration: underline;
+}
+
+p1 {
+    color: rgb(0,0,255);
+    font-weight: bold;
+}
+
+p2 {
+    color: rgb(0,0,0);
+    font-size:20px;
+    font-weight: bold;
+    text-align: center;
+}
